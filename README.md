@@ -1,9 +1,8 @@
 # 🧑🏻‍💻 SAMUEL KISSI-BI – ETHICAL HACKING & CYBERSECURITY STUDENT
 
-🎓 Étudiant en Bachelor 3 Cybersécurité & Ethical Hacking à l’EFREI Paris  
-🔐 Passionné par la sécurité offensive, **la protection des données**, et la **LCB-FT (Lutte Contre le Blanchiment d'argent et le Financement du Terrorisme)**  
-📍 Basé à Paris – Recherche active d’alternance dès **septembre 2025**  
-📫 [samuel.kissi@efrei.net](mailto:samuel.kissi@efrei.net) | [LinkedIn](https://linkedin.com/in/samuelkissibi) | 📱 +33 7 51 56 15 62  
+🎓 Étudiant en Master 1 en Cybersécurité et management à l'efrei.
+🔐 Passionné par la sécurité offensive, **la protection des données**, et la **LCB-FT (Lutte Contre le Blanchiment d'argent et le Financement du Terrorisme)**    
+📫 [samuel.kissi@efrei.net](mailto:samuel.kissi@efrei.net) | [LinkedIn](https://linkedin.com/in/samuelkissibi) 
 
 ---
 
